@@ -1,0 +1,11 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "description": "Smart Contract for Dacade Project",
+  "main": "index.js",
+  "author": "Tolga",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
