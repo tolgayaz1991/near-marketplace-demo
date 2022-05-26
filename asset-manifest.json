@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nr-marketplace-demo/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/nr-marketplace-demo/static/js/main.dbd0d939.chunk.js",
+    "main.js.map": "/nr-marketplace-demo/static/js/main.dbd0d939.chunk.js.map",
+    "runtime-main.js": "/nr-marketplace-demo/static/js/runtime-main.e7e0a518.js",
+    "runtime-main.js.map": "/nr-marketplace-demo/static/js/runtime-main.e7e0a518.js.map",
+    "static/css/2.83ab520f.chunk.css": "/nr-marketplace-demo/static/css/2.83ab520f.chunk.css",
+    "static/js/2.ae00d5bc.chunk.js": "/nr-marketplace-demo/static/js/2.ae00d5bc.chunk.js",
+    "static/js/2.ae00d5bc.chunk.js.map": "/nr-marketplace-demo/static/js/2.ae00d5bc.chunk.js.map",
+    "static/js/3.d33afd7e.chunk.js": "/nr-marketplace-demo/static/js/3.d33afd7e.chunk.js",
+    "static/js/3.d33afd7e.chunk.js.map": "/nr-marketplace-demo/static/js/3.d33afd7e.chunk.js.map",
+    "index.html": "/nr-marketplace-demo/index.html",
+    "static/css/2.83ab520f.chunk.css.map": "/nr-marketplace-demo/static/css/2.83ab520f.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/nr-marketplace-demo/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.ae00d5bc.chunk.js.LICENSE.txt": "/nr-marketplace-demo/static/js/2.ae00d5bc.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/nr-marketplace-demo/static/media/bootstrap-icons.f2539a50.woff2",
+    "static/media/sandwich.2d312449.jpg": "/nr-marketplace-demo/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e0a518.js",
+    "static/css/2.83ab520f.chunk.css",
+    "static/js/2.ae00d5bc.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.dbd0d939.chunk.js"
+  ]
+}
